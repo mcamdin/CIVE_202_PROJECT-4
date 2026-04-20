@@ -38,6 +38,6 @@ Risk scores are used to guide funding and disaster planning decisions. Differenc
 - `PROJECT_#4.ipynb` – Main analysis notebook  
 - `Project4_Combined_Cleaned_Data.csv` – Cleaned dataset used in analysis  
 
-## Author
-Camdin McGuigan  
+## Authors
+Camdin McGuigan, Nay Law Htoo, and Ahmad Rezaie 
 CIVE 202 – Spring 2026
