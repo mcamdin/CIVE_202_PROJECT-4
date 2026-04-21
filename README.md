@@ -3,7 +3,7 @@
 ## Files Included
 - `PROJECT_#4New.ipynb` - Code with comments (for TA)
 - `PROJECT_#4.ipynb` – Code/Main analysis notebook (Run each section of code in order)
-- `Project 4 - ACD_McGuigan_Htoo_Rezaie` - Annotated Code Document (Purpose each line of code)
+- `Project 4 - ACD_McGuigan_Htoo_Rezaie` - Annotated Code Document (Purpose of each line of code)
 - `Project 4 - Engineering Timesheet_McGuigan_Htoo_Rezaie` - Engineering Timesheet (Track hours & wage)
 - `Project 4 - Gantt Chart_McGuigan_Htoo_Rezaie` - Gantt Chart (Keep track of progress)
 - `Project 4 - Report_McGuigan_Htoo_Rezaie` - Written Report (Discussions & Results)
