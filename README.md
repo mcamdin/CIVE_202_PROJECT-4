@@ -1,9 +1,14 @@
 # CIVE 202 Project 4 – Risk Analysis Using National Risk Index
 
 ## Files Included
-- `PROJECT_#4.ipynb` – Main analysis notebook  
-- `Project4_Combined_Cleaned_Data.csv` – Cleaned dataset used in analysis  
-
+- `PROJECT_#4New.ipynb` - Code with comments (TA)
+- `PROJECT_#4.ipynb` – Main analysis notebook
+- `Project 4 - ACD_McGuigan_Htoo_ Rezaie`
+- `Project4_Combined_Cleaned_Data.csv` – Cleaned dataset used in analysis
+- `Project 4 - Engineering Timesheet_McGuigan_Htoo_ Rezaie`
+- `Project 4 - Gantt Chart_McGuigan_Htoo_ Rezaie`
+- `Project 4 - Gantt Chart_McGuigan_Htoo_Rezaie`
+- 
 ## Authors
 Camdin McGuigan, Nay Law Htoo, and Ahmad Rezaie 
 
