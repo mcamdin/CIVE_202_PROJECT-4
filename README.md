@@ -1,5 +1,9 @@
 # CIVE 202 Project 4 – Risk Analysis Using National Risk Index
 
+## Authors
+Camdin McGuigan, Nay Law Htoo, and Ahmad Rezaie 
+CIVE 202 – Spring 2026
+
 ## Files Included
 - `PROJECT_#4New.ipynb` - Code with comments (for TA)
 - `PROJECT_#4.ipynb` – Code/Main analysis notebook (Run each section of code in order)
@@ -16,10 +20,6 @@
 - `NRI_Table_CensusTracts_Wyoming(in).csv` - Raw dataset file used in analysis
 - `NRIDataDictionary(in).csv` - Raw dataset file used in analysis
 - `NRIDataDictionary.csv` - Raw dataset file used in analysis
-## Authors
-Camdin McGuigan, Nay Law Htoo, and Ahmad Rezaie 
-
-CIVE 202 – Spring 2026
 
 ## Overview
 This project analyzes natural disaster risk using the FEMA National Risk Index (NRI) dataset for Wyoming and Montana. The goal was to understand how risk is calculated using the NRI and then create a custom risk scoring method to compare against the original values. This helps show how different definitions of risk can change results and highlight possible bias.
