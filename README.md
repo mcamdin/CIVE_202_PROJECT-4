@@ -1,14 +1,20 @@
 # CIVE 202 Project 4 – Risk Analysis Using National Risk Index
 
 ## Files Included
-- `PROJECT_#4New.ipynb` - Code with comments (TA)
-- `PROJECT_#4.ipynb` – Main analysis notebook
-- `Project 4 - ACD_McGuigan_Htoo_ Rezaie`
-- `Project4_Combined_Cleaned_Data.csv` – Cleaned dataset used in analysis
-- `Project 4 - Engineering Timesheet_McGuigan_Htoo_ Rezaie`
-- `Project 4 - Gantt Chart_McGuigan_Htoo_ Rezaie`
-- `Project 4 - Gantt Chart_McGuigan_Htoo_Rezaie`
-- 
+- `PROJECT_#4New.ipynb` - Code with comments (for TA)
+- `PROJECT_#4.ipynb` – Code/Main analysis notebook (Run each section of code in order)
+- `Project 4 - ACD_McGuigan_Htoo_Rezaie` - Annotated Code Document (Purpose each line of code)
+- `Project 4 - Engineering Timesheet_McGuigan_Htoo_Rezaie` - Engineering Timesheet (Track hours & wage)
+- `Project 4 - Gantt Chart_McGuigan_Htoo_Rezaie` - Gantt Chart (Keep track of progress)
+- `Project 4 - Report_McGuigan_Htoo_Rezaie` - Written Report (Discussions & Results)
+- `Project 4 - SOW_McGuigan_Htoo_Rezaie` - Scope of Work (Reproducible methods)
+- `Project4_Combined_Cleaned_Data.csv` – Cleaned dataset file used in analysis
+- `Montana.csv` - Raw dataset file used in analysis
+- `Wyoming.csv` - Raw dataset file used in analysis
+- `NRI_Table_CensusTracts_Montana.csv` - Raw dataset file used in analysis
+- `NRI_Table_CensusTracts_Wyoming(in).csv` - Raw dataset file used in analysis
+- `NRIDataDictionary(in).csv` - Raw dataset file used in analysis
+- `NRIDataDictionary.csv` - Raw dataset file used in analysis
 ## Authors
 Camdin McGuigan, Nay Law Htoo, and Ahmad Rezaie 
 
