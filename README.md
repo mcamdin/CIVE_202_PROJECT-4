@@ -8,6 +8,7 @@
 - `Project 4 - Gantt Chart_McGuigan_Htoo_Rezaie` - Gantt Chart (Keep track of progress)
 - `Project 4 - Report_McGuigan_Htoo_Rezaie` - Written Report (Discussions & Results)
 - `Project 4 - SOW_McGuigan_Htoo_Rezaie` - Scope of Work (Reproducible methods)
+Raw & Cleaned files
 - `Project4_Combined_Cleaned_Data.csv` – Cleaned dataset file used in analysis
 - `Montana.csv` - Raw dataset file used in analysis
 - `Wyoming.csv` - Raw dataset file used in analysis
