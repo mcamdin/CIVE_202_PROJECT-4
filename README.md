@@ -1,5 +1,14 @@
 # CIVE 202 Project 4 – Risk Analysis Using National Risk Index
 
+## Files Included
+- `PROJECT_#4.ipynb` – Main analysis notebook  
+- `Project4_Combined_Cleaned_Data.csv` – Cleaned dataset used in analysis  
+
+## Authors
+Camdin McGuigan, Nay Law Htoo, and Ahmad Rezaie 
+
+CIVE 202 – Spring 2026
+
 ## Overview
 This project analyzes natural disaster risk using the FEMA National Risk Index (NRI) dataset for Wyoming and Montana. The goal was to understand how risk is calculated using the NRI and then create a custom risk scoring method to compare against the original values. This helps show how different definitions of risk can change results and highlight possible bias.
 
@@ -34,11 +43,3 @@ The custom risk scores showed differences compared to the NRI values due to chan
 ## Implications
 Risk scores are used to guide funding and disaster planning decisions. Differences between methods can impact which communities are considered high risk and may affect how resources are distributed. This highlights the importance of understanding how risk is calculated and ensuring transparency in the process.
 
-## Files Included
-- `PROJECT_#4.ipynb` – Main analysis notebook  
-- `Project4_Combined_Cleaned_Data.csv` – Cleaned dataset used in analysis  
-
-## Authors
-Camdin McGuigan, Nay Law Htoo, and Ahmad Rezaie 
-
-CIVE 202 – Spring 2026
